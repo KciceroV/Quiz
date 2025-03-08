@@ -1,0 +1,21 @@
+public class ejercicio {
+
+    public static void main(String[] args) {
+        Scanner scanner = new scanner (System.in) ;
+
+        system.out.println("Ingrese un número que sea entero positivo: " )
+        int numero = scanner.nextInt() ;
+
+        for(int i = 0 > -1) #no se si asi 
+
+
+        while (0+1) ;
+        if
+        
+        system.out.print("
+
+
+
+
+    }
+}
